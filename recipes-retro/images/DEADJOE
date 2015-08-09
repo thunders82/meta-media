@@ -1,0 +1,31 @@
+
+*** These modified files were found in JOE when it aborted on Sun May 11 14:03:05 2014
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+#dnl
+
+*** File '(Unnamed)'
+Badness
+BAD
+error
+ERROR
+WARNING
+open
+ssh
+MAKE
+inherit
+pro
+
+*** File '(Unnamed)'
+/home/thunders/xbmc-bsp/build/conf/bblayers.conf
+/home/thunders/xbmc-bsp/build/conf/bblayers.conf
+../scummvm/scummvm_1.6.0.bb
+/home/thunders/xbmc-bsp/build/tmp/work/cortexa9hf-vfp-neon-poky-linux-gnueabi/scummvm/1.6.0-r0/scummvm-1.6.0/config.mk
+/home/thunders/xbmc-bsp/build/tmp/work/cortexa9hf-vfp-neon-poky-linux-gnueabi/scummvm/1.6.0-r0/scummvm-1.6.0/graphics/scaler/downscalerARM.s
+/home/thunders/xbmc-bsp/build/tmp/work/cortexa9hf-vfp-neon-poky-linux-gnueabi/scummvm/1.6.0-r0/scummvm-1.6.0/graphics/scaler/Normal2xARM.s
+/home/thunders/xbmc-bsp/build/tmp/work/cortexa9hf-vfp-neon-poky-linux-gnueabi/scummvm/1.6.0-r0/scummvm-1.6.0/graphics/scaler/scale2xARM.s
+/home/thunders/xbmc-bsp/build/tmp/work/cortexa9hf-vfp-neon-poky-linux-gnueabi/scummvm/1.6.0-r0/scummvm-1.6.0/graphics/scaler/scale2xARM.s
+/home/thunders/xbmc-bsp/build/tmp/work/cortexa9hf-vfp-neon-poky-linux-gnueabi/scummvm/1.6.0-r0/scummvm-1.6.0/graphics/scaler/Normal2xARM.s
+/home/thunders/xbmc-bsp/build/tmp/work/cortexa9hf-vfp-neon-poky-linux-gnueabi/scummvm/1.6.0-r0/scummvm-1.6.0/graphics/scaler/Normal2xARM.s
+../scummvm/scummvm_1.6.0.bb
